@@ -4,10 +4,19 @@
   "description": "A minimal react-redux boilerplate with all the best practices",
   "repository": {
     "type": "git",
-    "url": "git://github.com/flexdinesh/react-redux-boilerplate.git"
+    "url": "https://github.com/r0nho/generator-memed-react-boilerplate.git"
   },
-  "license": "MIT",
-  "author": "Dinesh Pandiyan",
+  "author": "Memed",
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "component",
+    "javascript",
+    "redux",
+    "scaffold",
+    "generator",
+    "memed"
+  ],
   "scripts": {
     "prebuild": "npm run build:clean",
     "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.babel.js --color -p --progress --hide-modules --display-optimization-bailout",

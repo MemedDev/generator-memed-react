@@ -1,14 +1,8 @@
-<img src="./src/assets/images/header/logo.png" style="max-width:250px">
+<p align="center"> <img src="./src/assets/images/header/logo.png" style="max-width:250px"></p>
 
 <br />
 
 <div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
-
-<br />
-
-<div align="center">
-
-</div>
 
 <br />
 
