@@ -21,13 +21,11 @@ This boilerplate features all the latest tools and practices in the industry.
 - _Webpack_ - **Webpack 4**✨, Hot Reloading, Code Splitting, Optimized Prod Build
 - _Test_ - Jest with Enzyme
 - _Lint_ - ESlint
-- _Styles_ - SCSS Styling
-
-Here are a few highlights to look out for in this boilerplate
+- _Styles_ - Styled components
 
 
 ## Quick start
-1. Move to the appropriate directory<br />
+1. `git clone https://github.com/MemedDev/memed-react-redux-boilerplate.git YOUR_DIRECTORY`
 2. Run `yarn` or `npm install` to install dependencies.<br />
 3. Run `npm start` to see the example app at `http://localhost:3000`.
 
