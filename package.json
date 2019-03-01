@@ -19,7 +19,7 @@
   ],
   "scripts": {
     "prebuild": "npm run build:clean",
-    "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.babel.js --color -p --progress --hide-modules --display-optimization-bailout",
+    "build": "cross-env NODE_ENV=production webpack --config build/webpack.prod.babel.js --color -p --progress --hide-modules --display-optimization-bailout",
     "build:clean": "rimraf ./dist",
     "clean": "npm run test:clean && npm run build:clean",
     "eslint:fix": "eslint -- . --ignore-path .gitignore --fix",
